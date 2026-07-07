@@ -4,6 +4,12 @@ This repository contains the final architecture project completed for my **AWS C
 
 The objective of this project was to design a secure, highly available AWS architecture for a SaaS application responsible for handling personally identifiable information (PII). Rather than focusing solely on implementation, the project emphasizes architectural decision-making, security, resiliency, automation, disaster recovery, and operational best practices.
 
+## Quick Links
+
+📄 **[View the Complete Architecture Document (PDF)](Architecture.pdf)**
+
+🗺️ **[View the Full Architecture Diagram (PNG)](AWS%20Architecture%20Diagram.png)**
+
 ## Project Objectives
 
 - Design a secure, scalable three-tier AWS architecture
